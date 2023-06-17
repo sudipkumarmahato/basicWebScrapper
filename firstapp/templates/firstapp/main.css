@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+    background: #1abc9c;
+    margin: 0;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30vh;
+    color:white;
+  }
